@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34c4e01b2c7b65b4696453b1d342b320, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  _numberLevel: 6
+  _countBlocksGame: 55
+  _timeBuildBlock: 3
+  _background: {fileID: 21300000, guid: 57ac971e4e958374e80d6b38e26cb97b, type: 3}
+  _typeBlock: {fileID: 21300000, guid: 6948fe06c0be98248874cf5c3c47716c, type: 3}
+  _typeBlockTop: {fileID: 21300000, guid: 1116a8301355f2d42b8630a1d2f2414c, type: 3}
